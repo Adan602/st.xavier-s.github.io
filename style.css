@@ -6,3 +6,7 @@ body{
 #campus{
     background: linear-gradient(#10416b, black);
 }
+
+#library{
+    padding: 500px;
+}
