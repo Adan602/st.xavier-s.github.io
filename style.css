@@ -1,47 +1,12 @@
-html{
-    scroll-behavior: smooth;
-}
-
-
 body{
     text-align: center;
-    background-color: black;
-    color: white;
+    background: linear-gradient(#e66465, #9198e5);
 }
 
-
-
-
-.links {
-
-    padding-left: 33px;
-    padding-right: 25px;
-
-    font-family: fantasy;
-
-    font-size: 20px;
-    display: inline;
+#campus{
+    background: linear-gradient(#10416b, black);
 }
 
-#solar_system{
-    height: 500px;
-}
-
-#home p{
-    font-size: 20px;
-}
-
-.menu{
-    position: fixed;
-    padding-left: 680px;
-    background: transparent;
-    
-}
-#planet_grid{
-    height: 200px;
-    
-}
-
-#planet_grid:hover{
-    transform: scale(0.9);
+#library{
+    padding: 500px;
 }
